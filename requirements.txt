@@ -15,5 +15,7 @@ python-dateutil==3.0.0
 requests==2.34.2
 six==1.17.0
 tifffile==2026.10.15
+torch==2.14.1
+torchvision==0.29.1
 tzdata==2026.5
 urllib3==2.8.0
